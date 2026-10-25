@@ -1,0 +1,9 @@
+target/
+mysql_data/
+*.class
+.idea/
+*.iml
+.vscode/
+db.properties
+reset_pass.sql
+/Video Project 4.mp4
